@@ -1,0 +1,13 @@
+D:\Учебка\2й Курс\ООП\ДЗ\Task2\bin\Debug\netcoreapp3.1\Task2.exe
+D:\Учебка\2й Курс\ООП\ДЗ\Task2\bin\Debug\netcoreapp3.1\Task2.deps.json
+D:\Учебка\2й Курс\ООП\ДЗ\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.json
+D:\Учебка\2й Курс\ООП\ДЗ\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.dev.json
+D:\Учебка\2й Курс\ООП\ДЗ\Task2\bin\Debug\netcoreapp3.1\Task2.dll
+D:\Учебка\2й Курс\ООП\ДЗ\Task2\bin\Debug\netcoreapp3.1\Task2.pdb
+D:\Учебка\2й Курс\ООП\ДЗ\Task2\obj\Debug\netcoreapp3.1\Task2.csprojAssemblyReference.cache
+D:\Учебка\2й Курс\ООП\ДЗ\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+D:\Учебка\2й Курс\ООП\ДЗ\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+D:\Учебка\2й Курс\ООП\ДЗ\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.CoreCompileInputs.cache
+D:\Учебка\2й Курс\ООП\ДЗ\Task2\obj\Debug\netcoreapp3.1\Task2.dll
+D:\Учебка\2й Курс\ООП\ДЗ\Task2\obj\Debug\netcoreapp3.1\Task2.pdb
+D:\Учебка\2й Курс\ООП\ДЗ\Task2\obj\Debug\netcoreapp3.1\Task2.genruntimeconfig.cache
