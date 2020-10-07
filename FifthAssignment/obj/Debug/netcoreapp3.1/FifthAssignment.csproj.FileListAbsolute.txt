@@ -1,0 +1,15 @@
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FifthAssignment\obj\Debug\netcoreapp3.1\FifthAssignment.Form1.resources
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FifthAssignment\obj\Debug\netcoreapp3.1\FifthAssignment.csproj.GenerateResource.cache
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FifthAssignment\obj\Debug\netcoreapp3.1\FifthAssignment.AssemblyInfoInputs.cache
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FifthAssignment\obj\Debug\netcoreapp3.1\FifthAssignment.AssemblyInfo.cs
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FifthAssignment\obj\Debug\netcoreapp3.1\FifthAssignment.csproj.CoreCompileInputs.cache
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FifthAssignment\bin\Debug\netcoreapp3.1\FifthAssignment.exe
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FifthAssignment\bin\Debug\netcoreapp3.1\FifthAssignment.deps.json
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FifthAssignment\bin\Debug\netcoreapp3.1\FifthAssignment.runtimeconfig.json
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FifthAssignment\bin\Debug\netcoreapp3.1\FifthAssignment.runtimeconfig.dev.json
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FifthAssignment\bin\Debug\netcoreapp3.1\FifthAssignment.dll
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FifthAssignment\bin\Debug\netcoreapp3.1\FifthAssignment.pdb
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FifthAssignment\obj\Debug\netcoreapp3.1\FifthAssignment.dll
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FifthAssignment\obj\Debug\netcoreapp3.1\FifthAssignment.pdb
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FifthAssignment\obj\Debug\netcoreapp3.1\FifthAssignment.genruntimeconfig.cache
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FifthAssignment\obj\Debug\netcoreapp3.1\FifthAssignment.csprojAssemblyReference.cache
