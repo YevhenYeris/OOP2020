@@ -1,0 +1,30 @@
+C:\Users\ieris\source\repos\Geometric Calculations\FourthAssignment\bin\Debug\netcoreapp3.1\FourthAssignment.exe
+C:\Users\ieris\source\repos\Geometric Calculations\FourthAssignment\bin\Debug\netcoreapp3.1\FourthAssignment.deps.json
+C:\Users\ieris\source\repos\Geometric Calculations\FourthAssignment\bin\Debug\netcoreapp3.1\FourthAssignment.runtimeconfig.json
+C:\Users\ieris\source\repos\Geometric Calculations\FourthAssignment\bin\Debug\netcoreapp3.1\FourthAssignment.runtimeconfig.dev.json
+C:\Users\ieris\source\repos\Geometric Calculations\FourthAssignment\bin\Debug\netcoreapp3.1\FourthAssignment.dll
+C:\Users\ieris\source\repos\Geometric Calculations\FourthAssignment\bin\Debug\netcoreapp3.1\FourthAssignment.pdb
+C:\Users\ieris\source\repos\Geometric Calculations\FourthAssignment\obj\Debug\netcoreapp3.1\FourthAssignment.csprojAssemblyReference.cache
+C:\Users\ieris\source\repos\Geometric Calculations\FourthAssignment\obj\Debug\netcoreapp3.1\FourthAssignment.Form1.resources
+C:\Users\ieris\source\repos\Geometric Calculations\FourthAssignment\obj\Debug\netcoreapp3.1\FourthAssignment.csproj.GenerateResource.cache
+C:\Users\ieris\source\repos\Geometric Calculations\FourthAssignment\obj\Debug\netcoreapp3.1\FourthAssignment.AssemblyInfoInputs.cache
+C:\Users\ieris\source\repos\Geometric Calculations\FourthAssignment\obj\Debug\netcoreapp3.1\FourthAssignment.AssemblyInfo.cs
+C:\Users\ieris\source\repos\Geometric Calculations\FourthAssignment\obj\Debug\netcoreapp3.1\FourthAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ieris\source\repos\Geometric Calculations\FourthAssignment\obj\Debug\netcoreapp3.1\FourthAssignment.dll
+C:\Users\ieris\source\repos\Geometric Calculations\FourthAssignment\obj\Debug\netcoreapp3.1\FourthAssignment.pdb
+C:\Users\ieris\source\repos\Geometric Calculations\FourthAssignment\obj\Debug\netcoreapp3.1\FourthAssignment.genruntimeconfig.cache
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FourthAssignment\bin\Debug\netcoreapp3.1\FourthAssignment.exe
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FourthAssignment\bin\Debug\netcoreapp3.1\FourthAssignment.deps.json
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FourthAssignment\bin\Debug\netcoreapp3.1\FourthAssignment.runtimeconfig.json
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FourthAssignment\bin\Debug\netcoreapp3.1\FourthAssignment.runtimeconfig.dev.json
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FourthAssignment\bin\Debug\netcoreapp3.1\FourthAssignment.dll
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FourthAssignment\bin\Debug\netcoreapp3.1\FourthAssignment.pdb
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FourthAssignment\obj\Debug\netcoreapp3.1\FourthAssignment.csprojAssemblyReference.cache
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FourthAssignment\obj\Debug\netcoreapp3.1\FourthAssignment.Form1.resources
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FourthAssignment\obj\Debug\netcoreapp3.1\FourthAssignment.csproj.GenerateResource.cache
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FourthAssignment\obj\Debug\netcoreapp3.1\FourthAssignment.AssemblyInfoInputs.cache
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FourthAssignment\obj\Debug\netcoreapp3.1\FourthAssignment.AssemblyInfo.cs
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FourthAssignment\obj\Debug\netcoreapp3.1\FourthAssignment.csproj.CoreCompileInputs.cache
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FourthAssignment\obj\Debug\netcoreapp3.1\FourthAssignment.dll
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FourthAssignment\obj\Debug\netcoreapp3.1\FourthAssignment.pdb
+D:\Учебка\2й Курс\ООП\ДЗ\Geometric Calculations\FourthAssignment\obj\Debug\netcoreapp3.1\FourthAssignment.genruntimeconfig.cache
